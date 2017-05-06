@@ -49,7 +49,7 @@ a:active {
     padding: 0 0 0 30px;
 }
 .main__cover {
-    background: url(../img/thumb1.jpg) no-repeat center;
+    background: url('//pic.pimg.tw/raytest/1494085912-2801929668.jpg?v=1494085932') no-repeat center;
     background-size: cover;
     position: relative;
 }
